@@ -1,0 +1,17 @@
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\bin\Debug\net6.0\Manipulando_NET.exe
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\bin\Debug\net6.0\Manipulando_NET.deps.json
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\bin\Debug\net6.0\Manipulando_NET.runtimeconfig.json
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\bin\Debug\net6.0\Manipulando_NET.dll
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\bin\Debug\net6.0\Manipulando_NET.pdb
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\obj\Debug\net6.0\Manipulando_NET.csproj.AssemblyReference.cache
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\obj\Debug\net6.0\Manipulando_NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\obj\Debug\net6.0\Manipulando_NET.AssemblyInfoInputs.cache
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\obj\Debug\net6.0\Manipulando_NET.AssemblyInfo.cs
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\obj\Debug\net6.0\Manipulando_NET.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\obj\Debug\net6.0\Manipulando_NET.dll
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\obj\Debug\net6.0\refint\Manipulando_NET.dll
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\obj\Debug\net6.0\Manipulando_NET.pdb
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\obj\Debug\net6.0\Manipulando_NET.genruntimeconfig.cache
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\obj\Debug\net6.0\ref\Manipulando_NET.dll
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Laura\Desktop\manipulando-dados-e-objetos_NET\Manipulando_NET\obj\Debug\net6.0\Manipulando_NET.csproj.CopyComplete

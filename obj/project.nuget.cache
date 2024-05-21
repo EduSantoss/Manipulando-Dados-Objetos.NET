@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BIMWNO/ZPwdiyunM/Hi8V+bePHoJCcpX6fGEbsqlFXioZjjZ/JJflsQ44SmxhcNCD7VQi48qWkkNr0nL8k/8Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laura\\Desktop\\manipulando-dados-e-objetos_NET\\Manipulando_NET\\Manipulando_NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laura\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
